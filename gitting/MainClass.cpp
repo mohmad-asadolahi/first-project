@@ -26,6 +26,6 @@ template<typename Ob,typename... Objects> void print (
 auto main ( )->int
 	{
 		print<int,int>(1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9);
-		cout << endl << "program ended";
+		cout << endl << "progra ended";
 		return 0;
 	}

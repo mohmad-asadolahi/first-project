@@ -27,5 +27,6 @@ auto main ( )->int
 	{
 		print<int,int>(1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9);
 		cout << endl << "prgram ended!";
+		cout << endl << "progra ended";
 		return 0;
 	}

@@ -27,6 +27,7 @@ auto main ( )->int
 	{
 		print<int,int>(1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9);
 		cout << endl << "prgram ended!";
+		//after clone hole project
 		cout << endl << "prograk ended";
 		return 0;
 	}
